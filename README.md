@@ -6,7 +6,7 @@ This repository contains two separate the source codes
 The script should be ready to run. Change input for the model in the first lines of the script. 
 
 2. An individual based model used to simulate different strategies when it comes to mass-vaccination. 
-
+Including two figures comparing four different scenarios.
 
 For questions, comments or suggestions please send me an email at nils.kolnes@gmail.com
 
